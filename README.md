@@ -32,17 +32,16 @@ email1@example.com
 email2@example.com
 ```
 
-## Sending Beautiful HTML Emails
+## Sending Emails
 
-To send a modern, responsive HTML email to all recipients, use the `mail_template.py` script:
-
-```bash
-python mail_template.py
-```
-
-- Loads recipients from `recipients.txt`
-- Sends a beautifully styled HTML email (with a plain text fallback) to each address
-- Logs the sending status for each recipient
+- For **normal text-based emails**, run:
+  ```bash
+  python main.py
+  ```
+- For **template-based (HTML) emails**, run:
+  ```bash
+  python mail_template.py
+  ```
 
 ## Customization
 
@@ -97,4 +96,5 @@ The default template includes:
 
 ---
 
+© 2024 Ashish. All rights reserved.
 © 2024 Ashish. All rights reserved.
