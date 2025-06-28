@@ -97,4 +97,4 @@ The default template includes:
 ---
 
 © 2024 Ashish. All rights reserved.
-© 2024 Ashish. All rights reserved.
+
